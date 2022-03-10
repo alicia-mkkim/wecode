@@ -6,4 +6,5 @@ function findEvenNumbers (nums){
     }
 }
 
-findEvenNumbers([39,50,1,35,22,2,100])
+let nums = [3,4,5,10,300,205,12] 
+findEvenNumbers(nums);
